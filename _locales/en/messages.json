@@ -1,0 +1,20 @@
+{
+    "extensionName": {
+      "message": "Indic Transliterator"
+    },
+    "extensionDescription": {
+      "message": "Transliterate Indic scripts using CIIL API"
+    },
+    "enable": {
+      "message": "Enable"
+    },
+    "disable": {
+      "message": "Disable"
+    },
+    "sourceLanguage": {
+      "message": "Source Language"
+    },
+    "targetLanguage": {
+      "message": "Target Language"
+    }
+  }

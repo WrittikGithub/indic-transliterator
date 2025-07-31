@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="logo">
+        <span class="logo-text">अ</span>
+      </div>
+      <h1>Indic Transliterator</h1>
+      <p class="subtitle">Convert between Indic scripts instantly</p>
+    </div>
+    
+    <div class="content">
+      <div class="form-group">
+        <label for="target-lang">Target Script:</label>
+        <select id="target-lang" class="select-dropdown">
+          <option value="hin">हिंदी (Devanagari)</option>
+          <option value="ben">বাংলা (Bengali)</option>
+          <option value="kan">ಕನ್ನಡ (Kannada)</option>
+          <option value="tel">తెలుగు (Telugu)</option>
+          <option value="tam">தமிழ் (Tamil)</option>
+          <option value="mal">മലയാളം (Malayalam)</option>
+          <option value="guj">ગુજરાતી (Gujarati)</option>
+          <option value="ori">ଓଡ଼ିଆ (Oriya)</option>
+          <option value="pan">ਗੁਰਮੁਖੀ (Gurmukhi)</option>
+          <option value="eng">English (Latin)</option>
+        </select>
+      </div>
+      
+      <div class="info-box">
+        <div class="info-icon">💡</div>
+        <div class="info-text">
+          <strong>Tip:</strong> Select text on any webpage, right-click, and choose "Transliterate to..." for quick conversion.
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <button id="toggle-btn" class="toggle-button">
+        <span class="button-text">Enable</span>
+        <span class="button-icon">🚀</span>
+      </button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
