@@ -134,9 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **CIIL (Central Institute of Indian Languages)**: For linguistic research and Unicode standards
 - **Chrome Extensions Team**: For the excellent extension platform
-- **Open Source Community**: For inspiration and tools
+- **Unicode Consortium**: For the comprehensive Unicode standards that make script conversion possible
 
 ## 📞 Support
 
@@ -156,4 +155,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for the Indic language community** 
+**Made with ❤️ by Writtik Bhattacharya** 

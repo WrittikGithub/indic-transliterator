@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Indic Transliterator",
     "version": "1.0",
-    "author": "Writtik Bhattacharya, CIIL",
+    "author": "Writtik Bhattacharya",
     "homepage_url": "https://github.com/WrittikGithub/indic-transliterator.git",
     "description": "Transliterate between Indic scripts using client-side processing",
     "default_locale": "en",
